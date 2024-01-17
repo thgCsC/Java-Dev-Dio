@@ -10,3 +10,4 @@ public class BoletimEstudante {
     }
 }
 // IMPLEMENTAR ESSE ALGORITMO AINDA MAIS =D
+// adicionar um imput
