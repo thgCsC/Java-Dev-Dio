@@ -1,3 +1,5 @@
+package estudo.thg.primeirasemana;
+
 public class BoletimEstudante {
     public static void main(String[] args) {
         int mediaFinal = 5;
