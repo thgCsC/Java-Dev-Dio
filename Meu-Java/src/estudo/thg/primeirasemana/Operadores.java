@@ -1,4 +1,4 @@
-package estudo.thg.segundasemana;
+package estudo.thg.primeirasemana;
 
 public class Operadores {
     public static void main(String[] args) {
