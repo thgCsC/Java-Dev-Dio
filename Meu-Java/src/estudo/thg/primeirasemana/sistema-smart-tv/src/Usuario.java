@@ -1,4 +1,8 @@
 public class Usuario {
+    /**
+     * @param args
+     * @throws Exception
+     */
     public static void main(String[] args) throws Exception {
         SmartTv smartTv = new SmartTv();
 
@@ -10,7 +14,7 @@ public class Usuario {
 
         System.out.println("Canal atual : " + smartTv.canal);
 
-        smartTv.mudarCanal(12);
+        smartTv.mudarCanal(4);
         System.out.println("Canal atual : " + smartTv.canal);
         System.out.println("Volume atual : " + smartTv.volume);
 
