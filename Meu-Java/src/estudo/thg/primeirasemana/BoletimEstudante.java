@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class BoletimEstudante {
     public static void main(String[] args) {
 
-        Scanner sc = new Scanner(System.in);
+        var sc = new Scanner(System.in);
         System.out.println("Digite a primeira nota do aluno:");
         float nota1 = sc.nextFloat();
 
