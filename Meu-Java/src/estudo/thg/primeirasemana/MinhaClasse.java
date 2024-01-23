@@ -25,6 +25,7 @@ public class MinhaClasse {
 
         String nomeCompleto = nomeCompleto(primeiroNome, segundoNome);
         System.out.println(nomeCompleto);
+        System.out.println();
     }
 
     // Metodo
