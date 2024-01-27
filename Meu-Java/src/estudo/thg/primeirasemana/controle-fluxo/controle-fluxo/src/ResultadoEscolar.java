@@ -9,9 +9,11 @@ public class ResultadoEscolar {
         double nota = sc.nextDouble();
 
         if (nota >= 7.0) {
-            System.out.println("Aluno aprovado!");
+            System.out.println("Aluno Aprovado!");
+        } else if (nota >= 5 && nota < 7) {
+            System.out.println("O aluno está de Recuperação!");
         } else {
-            System.out.println("Aluno reprovado!");
+            System.out.println("Aluno Reprovado!");
         }
         sc.close();
     }
